@@ -1,0 +1,17 @@
+Footor is a free and open-source football (soccer) app focused on accurate live data.
+
+<b>Features</b>
+<ul>
+<li>Live scores for every match of the day, refreshed as fast as the data provider updates</li>
+<li>Match timeline: goals, assists, penalties, cards, substitutions and VAR decisions</li>
+<li>Match statistics: possession, expected goals (xG), shots, corners, passes and more</li>
+<li>Lineups with formations, coaches and substitutes</li>
+<li>League tables, team pages with squads and fixtures, player season statistics</li>
+<li>Protection against stale data: a score never jumps backwards because of a cached response</li>
+</ul>
+
+<b>Privacy</b>
+No accounts, ads, analytics or Google services.
+
+<b>Data</b>
+Footor uses API-Football with your own free API key. Without a key it runs on fictional demo data.

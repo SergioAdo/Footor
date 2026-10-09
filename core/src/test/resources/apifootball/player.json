@@ -1,0 +1,18 @@
+{
+  "get": "players", "errors": [], "results": 1,
+  "response": [{
+    "player": {"id": 306, "name": "Mohamed Salah", "firstname": "Mohamed", "lastname": "Salah Hamed Mahrous Ghaly", "age": 34, "birth": {"date": "1992-06-15", "place": "Nagrig", "country": "Egypt"}, "nationality": "Egypt", "height": "175 cm", "weight": "71 kg", "injured": false, "photo": "https://media.api-sports.io/football/players/306.png"},
+    "statistics": [
+      {"team": {"id": 40, "name": "Liverpool"}, "league": {"id": 2, "name": "UEFA Champions League", "season": 2026},
+       "games": {"appearences": 2, "lineups": 2, "minutes": 180, "position": "Attacker", "rating": "7.450000"},
+       "shots": {"total": 6, "on": 3}, "goals": {"total": 1, "conceded": 0, "assists": 1, "saves": null},
+       "passes": {"total": 60, "key": 4, "accuracy": "81"}, "tackles": {"total": 1, "blocks": null, "interceptions": null},
+       "duels": {"total": 20, "won": 9}, "dribbles": {"attempts": 5, "success": 3}, "cards": {"yellow": 0, "yellowred": 0, "red": 0}},
+      {"team": {"id": 40, "name": "Liverpool"}, "league": {"id": 39, "name": "Premier League", "season": 2026},
+       "games": {"appearences": 7, "lineups": 7, "minutes": 630, "position": "Attacker", "rating": "7.9"},
+       "shots": {"total": 25, "on": 14}, "goals": {"total": 6, "conceded": 0, "assists": 4, "saves": null},
+       "passes": {"total": 210, "key": 15, "accuracy": 79}, "tackles": {"total": 3, "blocks": null, "interceptions": 1},
+       "duels": {"total": 70, "won": 33}, "dribbles": {"attempts": 22, "success": 11}, "cards": {"yellow": 1, "yellowred": 0, "red": 0}}
+    ]
+  }]
+}

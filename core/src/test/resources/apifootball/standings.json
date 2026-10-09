@@ -1,0 +1,18 @@
+{
+  "get": "standings",
+  "errors": [],
+  "results": 1,
+  "response": [
+    {
+      "league": {
+        "id": 39, "name": "Premier League", "country": "England", "logo": null, "flag": null, "season": 2026,
+        "standings": [[
+          {"rank": 2, "team": {"id": 40, "name": "Liverpool", "logo": null}, "points": 16, "goalsDiff": 9, "group": "Premier League", "form": "WWDWW", "status": "same", "description": null,
+           "all": {"played": 7, "win": 5, "draw": 1, "lose": 1, "goals": {"for": 15, "against": 6}}},
+          {"rank": 1, "team": {"id": 50, "name": "Manchester City", "logo": null}, "points": 17, "goalsDiff": 11, "group": "Premier League", "form": "WWWDW", "status": "same", "description": "Promotion - Champions League (League phase: )",
+           "all": {"played": 7, "win": 5, "draw": 2, "lose": 0, "goals": {"for": 16, "against": 5}}}
+        ]]
+      }
+    }
+  ]
+}

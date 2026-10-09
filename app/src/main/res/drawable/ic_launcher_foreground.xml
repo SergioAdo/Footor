@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- A ball on a pitch line, drawn inside the 72dp safe zone of the 108dp adaptive icon. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M54,30a24,24 0,1 1,0 48a24,24 0,1 1,0 -48z" />
+    <path
+        android:fillColor="#FF1B7F4B"
+        android:pathData="M54,44l9.5,6.9l-3.6,11.2h-11.8l-3.6,-11.2z" />
+    <path
+        android:strokeColor="#FF1B7F4B"
+        android:strokeWidth="2"
+        android:pathData="M54,44V33M63.5,50.9l10.3,-3.4M59.9,62.1l6.4,8.7M48.1,62.1l-6.4,8.7M44.5,50.9l-10.3,-3.4" />
+</vector>
